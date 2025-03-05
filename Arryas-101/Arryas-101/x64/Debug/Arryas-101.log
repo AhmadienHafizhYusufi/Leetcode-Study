@@ -1,0 +1,4 @@
+﻿  Squares-of-a-Sorted-Array.cpp
+D:\Repository\Leetcode-Study\Arryas-101\Squares-of-a-Sorted-Array.cpp(60,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repository\Leetcode-Study\Arryas-101\Squares-of-a-Sorted-Array.cpp(65,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Arryas-101.vcxproj -> D:\Repository\Leetcode-Study\Arryas-101\x64\Debug\Arryas-101.exe

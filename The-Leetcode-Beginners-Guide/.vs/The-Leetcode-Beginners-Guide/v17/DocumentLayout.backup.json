@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Ransom-Note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|solutionrelative:Ransom-Note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Middle-of-the-Linked-List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|solutionrelative:Middle-of-the-Linked-List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|solutionrelative:Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Fizz-Buzz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|solutionrelative:Fizz-Buzz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Richest-Customer-Wealth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|solutionrelative:Richest-Customer-Wealth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Running-Sum-of-1D-Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD3EFF51-EE95-41F5-9BFD-CD5CA91AA522}|The-Leetcode-Beginners-Guide.vcxproj|solutionrelative:Running-Sum-of-1D-Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,17 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ransom-Note.cpp",
+              "DocumentMoniker": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Ransom-Note.cpp",
+              "RelativeDocumentMoniker": "Ransom-Note.cpp",
+              "ToolTip": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Ransom-Note.cpp",
+              "RelativeToolTip": "Ransom-Note.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T01:51:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Middle-of-the-Linked-List.cpp",
+              "DocumentMoniker": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Middle-of-the-Linked-List.cpp",
+              "RelativeDocumentMoniker": "Middle-of-the-Linked-List.cpp",
+              "ToolTip": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Middle-of-the-Linked-List.cpp",
+              "RelativeToolTip": "Middle-of-the-Linked-List.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T01:43:00.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp",
+              "DocumentMoniker": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp",
+              "RelativeDocumentMoniker": "Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp",
+              "ToolTip": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp",
+              "RelativeToolTip": "Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T01:33:40.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fizz-Buzz.cpp",
+              "DocumentMoniker": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Fizz-Buzz.cpp",
+              "RelativeDocumentMoniker": "Fizz-Buzz.cpp",
+              "ToolTip": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Fizz-Buzz.cpp",
+              "RelativeToolTip": "Fizz-Buzz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T01:15:28.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Richest-Customer-Wealth.cpp",
+              "DocumentMoniker": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Richest-Customer-Wealth.cpp",
+              "RelativeDocumentMoniker": "Richest-Customer-Wealth.cpp",
+              "ToolTip": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Richest-Customer-Wealth.cpp",
+              "RelativeToolTip": "Richest-Customer-Wealth.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T00:53:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Running-Sum-of-1D-Array.cpp",
               "DocumentMoniker": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Running-Sum-of-1D-Array.cpp",
               "RelativeDocumentMoniker": "Running-Sum-of-1D-Array.cpp",
               "ToolTip": "D:\\Repository\\Leetcode-Study\\The-Leetcode-Beginners-Guide\\Running-Sum-of-1D-Array.cpp",
               "RelativeToolTip": "Running-Sum-of-1D-Array.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T00:27:25.37Z",
               "EditorCaption": ""
