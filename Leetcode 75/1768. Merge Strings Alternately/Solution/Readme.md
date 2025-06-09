@@ -57,3 +57,93 @@ class Solution {
         }
 };
 ```
+
+## Complexity Analysis
+
+Here, `m` is the length of `word1` and `n` is the length of `word2`.
+
+- Time complexity: $O(m+n)$
+  - We iterate over `word1` and `word2` once and push their letters into
+    `result`. It would take $O(m+n)$ time.
+- Space complexity: $O(1)$
+  - Without considering the space consumed by the input strings ( `word1` and
+    `word2` ) and the output string ( `result` ), we do not use more than
+    constant space.
+
+# Approach 2: One Pointer
+
+## Intuition
+
+We use one index (let's call it `i`) to combine the two words. We start with
+`i = 0` and keep going until we reach the end of the longer word. This means we
+go up to `i = max(word1.length(), word2.length())`.
+
+At each step, we check if `i` is still within the length of each word. If `i` is
+less than the length of `word1`, we add the letter at position `i` from `word1`
+to our result.
+
+If `i` is less than the length of `word2`, we add the letter at position `i`
+from `word2` to our result.
+
+If `i` is bigger than the length of a word, we just skip adding a letter from
+that word and continue with the other word.
+
+## Algorithm
+
+1. Create two variables, `m` and `n`, to store the length of `word1` and
+   `word2`.
+2. Create an empty string variable `result` to store the result of merged words.
+3. Iterate over `word1` and `word2` using a loop running from `i = 0` to
+   `i < max(m, n)` and keep incrementing `i` by `1` after each iteration:
+   - If `i < m`, it means that we have not completely traversed `word1`. As a
+     result, we append `word1[i]` to `result`.
+   - If `i < n`, it means that we have not completely traversed `word2`. As a
+     result, we append `word2[i]` to `result`.
+4. Return `result`.
+
+## Implementation
+
+```cpp
+class Solution {
+    // Public access specifier so members can be accessed outside the class.
+    public:
+        // Declares a function that takes two strings and returns a string.
+        string mergeAlternately(string word1, string word2) {
+            // Stores the length of word1 in variable m.
+            int m = word1.size();
+            // Stores the length of word2 in variable n.
+            int n = word2.size();
+            // Initializes an empty string to store the merged result.
+            string result = "";
+
+            // Loops from 0 to the length of the longer word.
+            for (int i = 0; i < max(m, n); i++) {
+                // If i is within the bounds of word1,
+                if (i < m) {
+                    // append the i-th character of word1 to result.
+                    result.push_back(word1[i]);
+                }
+                // If i is within the bounds of word2,
+                if (i < n) {
+                    // append the i-th character of word2 to result.
+                    result.push_back(word2[i]);
+                }
+            }
+
+            // Returns the merged string.
+            return result;
+        }
+};
+```
+
+## Complexity Analysis
+
+Here, `m` is the length of `word1` and `n` is the length of `word2`.
+
+- Time complexity: $O(m+n)$
+  - We iterate over `word1` and `word2` once pushing their letters into
+    `result`. It would take $O(m+n)$ time.
+- Space complexity: $O(1)$
+  - Without considering the space consumend by the input strings ( `word1` and
+    `word2` ) and the output string ( `result` ), we do not use more than
+    constant space.
